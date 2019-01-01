@@ -1,0 +1,30 @@
+Git Commands
+
+=============
+
+git status
+
+To know the status of commits and changes
+
+
+git add .
+
+To add all the changes to current repository
+
+
+git commit -a
+
+To commit all the changes, you can mention commit message as per description
+
+
+git push -u origin dev (here 'dev' is develop branch, always need to push changes to dev branch)
+
+To push changes to remote dev branch
+
+
+git checkout branch_name
+
+To switch between branches, always check whether are in 'dev' branch or not.
+
+
+Before this, you need to place changes in cloned repository path.
